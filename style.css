@@ -12,6 +12,7 @@ body{
 .half-width{
     display: flex;
     width: 100%;
+    
 }
 .position{
     width: 50%;
@@ -25,10 +26,11 @@ h1{
     margin-left: 50px;
     padding-left: 50px;
     padding-top: 50px;
+    padding-right: 50px;
 }
 span{
     color: orange;
 }
-#text-color{
+.text-color{
     color: gray;
 }
