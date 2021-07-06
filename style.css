@@ -34,3 +34,52 @@ span{
 .text-color{
     color: gray;
 }
+.text-align{
+    text-align: center;
+}
+.last-sec{
+    width: 30%;
+}
+.img-edit{
+    border-radius: 20px;
+}
+.format{
+    margin-top: 50px;
+    margin-left: 50px;
+    padding-left: 50px;
+    padding-top: 50px;
+    
+}
+.div-edit{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.left-align{
+    text-align: left;
+}
+.centre-align{
+    text-align: center;
+}
+.right-align{
+    text-align: right;
+}
+h3{
+    color: grey;
+}
+span{
+    color: orange;
+}
+#text-align{
+    text-align: center;
+    background-color: black;
+}
+p{
+    color: grey;
+}
+#ft{
+    text-align: center;
+}
+#top{
+    text-align: center;
+    font-size: 50px;
+}
